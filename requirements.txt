@@ -1,0 +1,14 @@
+torch
+
+torchvision
+
+streamlit
+
+fastapi
+
+uvicorn
+
+pillow
+
+python-multipart
+ 
